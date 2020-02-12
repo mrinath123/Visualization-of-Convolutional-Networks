@@ -1,0 +1,5 @@
+We are using the infamous "dogs and cats" image dataset.
+I will not include the file but will give you the link of the dataset, You can download 
+it from Kaggle and run on your local system.
+
+(https://www.kaggle.com/c/dogs-vs-cats/data)
